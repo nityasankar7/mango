@@ -22,6 +22,8 @@ function setup() {
 	engine = Engine.create();
 	world = engine.world;
 
+	Constraint=Matter.Constraint
+
 	//Create the Bodies Here.
 	 ground1= new Ground(400,690,800,20)
 	 tree2= new Tree1(580,500,400,400)
