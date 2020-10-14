@@ -9,6 +9,8 @@ var stone2;
 var boyIMG,boy;
 var mango2,mango3,mango4,mango5,mango6;
 var sling1;
+var mangoBodyPosition=lmangoBodyPosition; 
+var stone2BodyPosition=lstone2BodyPosition;
 
 function preload()
 {
